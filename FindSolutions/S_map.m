@@ -7,5 +7,5 @@ t = t(:).'; % columnn vector
          v.*(1+t-t); 
          w - 9.81.*(t - s)];
 % The difference in the third entry "t-t" is to make sure the function
-% outputs a valid size matrix when the input "t" is a vector (See Plot_3d.m)
+% outputs a valid size matrix when the input "t" is a vector.
 end
