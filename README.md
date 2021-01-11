@@ -1,4 +1,4 @@
-# Disclaimer: This repository is hard to follow and could certainly be optimized. Further commits will attempt to resolve both of these issues.
+### Disclaimer: This repository is hard to follow and could certainly be optimized. Further commits will attempt to resolve both of these issues.
 
 # BilliardOscillatingParabola
 
