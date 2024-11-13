@@ -1,5 +1,3 @@
-### Disclaimer: This repository could certainly be optimized. Further commits will attempt to resolve this issue.
-
 # BilliardOscillatingParabola
 
 A particle is bouncing on a vertically vibrating parabolic surface. For a given number of impacts between the particle and the surface, periodic orbits are provided for fixed parameter values. A folder containing the code capable of finding these orbits as well as doing rigorous pseudo-arclength continuation in the surface's amplitude of oscillation is presented.
